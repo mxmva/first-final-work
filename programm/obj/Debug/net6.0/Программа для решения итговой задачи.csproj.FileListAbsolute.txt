@@ -1,0 +1,15 @@
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.csproj.AssemblyReference.cache
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.AssemblyInfoInputs.cache
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.AssemblyInfo.cs
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.csproj.CoreCompileInputs.cache
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/bin/Debug/net6.0/Программа для решения итговой задачи
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/bin/Debug/net6.0/Программа для решения итговой задачи.deps.json
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/bin/Debug/net6.0/Программа для решения итговой задачи.runtimeconfig.json
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/bin/Debug/net6.0/Программа для решения итговой задачи.dll
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/bin/Debug/net6.0/Программа для решения итговой задачи.pdb
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.dll
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/refint/Программа для решения итговой задачи.dll
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.pdb
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/Программа для решения итговой задачи.genruntimeconfig.cache
+/Users/yliyamaksimova/Documents/Итоговая первая/Программа для решения итговой задачи/obj/Debug/net6.0/ref/Программа для решения итговой задачи.dll

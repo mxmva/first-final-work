@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Программа для решения итговой задачи/1.0.0": {
+        "runtime": {
+          "Программа для решения итговой задачи.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Программа для решения итговой задачи/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
